@@ -3,6 +3,7 @@
 This project explores the **Titanic dataset** using Python and Pandas, focusing on data cleaning, feature engineering, aggregation, and visualization.  
 
 ---
+![Titanic Age Distribution](images/titanic_age_plot.png)
 
 ##  Project Workflow  
 
