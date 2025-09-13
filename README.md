@@ -4,7 +4,7 @@ This project explores the **Titanic dataset** using Python and Pandas, focusing 
 
 ---
 ![Plotted Graph Titanic](plot-graph-titanic.png)
-https://github.com/SusanAlisa/Titanic-Dataset-Analysis-with-Python-Pandas/commit/d0898132189c07d36463e5ac314f9da8f12233d2
+https://github.com/SusanAlisa/Titanic-Dataset-Analysis-with-Python-Pandas/blob/main/plot%20graph%20titanic.png
 
 ##  Project Workflow  
 
