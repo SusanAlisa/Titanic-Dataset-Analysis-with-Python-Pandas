@@ -3,7 +3,7 @@
 This project explores the **Titanic dataset** using Python and Pandas, focusing on data cleaning, feature engineering, aggregation, and visualization.  
 
 ---
-![Plotted Graph Titanic](plot graph titanic.png)
+![Titanic Plot](plot%20graph%20titanic.png)
 
 
 ##  Project Workflow  
